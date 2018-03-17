@@ -1,0 +1,14 @@
+.jumbotron{
+	background-image:url('../images/hogwarts.jpg');
+	color:white;
+}
+body{
+	background-image:url('../images/brick.jpg');
+}
+.panel {
+	background:brown;
+	color:white;
+}
+#submit{
+	color:green;
+}
